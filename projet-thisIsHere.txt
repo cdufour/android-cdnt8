@@ -8,7 +8,8 @@ Exemple: en date du 15/08/2020 09h15, ma voiture se situe à 48.6080512, 7.75290
 - Propriété d'un "pin": titre, date, coordonnées GPS
 
 L'application permettra
-- d'enregistrer (sur l'appareil ou sur une API distante au choix) des pins. En option, permettre la modification et la suppressions
+- d'enregistrer (sur l'appareil ou sur une API distante au choix) des pins. 
+En option, permettre la modification et la suppression.
 - de lister les pins enregistrés
 
 
